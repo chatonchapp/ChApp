@@ -21,8 +21,8 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
 
-        final EditText regUsuari = (EditText) findViewById(R.id.regUsuari);
-        final EditText regClau = (EditText) findViewById(R.id.regClau);
+        final EditText logUsuari = (EditText) findViewById(R.id.logUsuari);
+        final EditText logClau = (EditText) findViewById(R.id.logClau);
         final Button bLogin = (Button) findViewById(R.id.bEntrar);
         final TextView linkRegistre = (TextView) findViewById(R.id.crearUsuari);
 
@@ -43,8 +43,8 @@ public class LoginActivity extends AppCompatActivity {
             @Override
             public void onClick(View v){
 
-                final String usuari = regUsuari.getText().toString();
-                final String clau = regClau.getText().toString();
+                final String usuari = logUsuari.getText().toString();
+                final String clau = logClau.getText().toString();
 
                 Response.Listener<String> responseListener = new Response.Listener<String>(){
 

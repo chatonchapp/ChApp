@@ -12,20 +12,21 @@ import java.util.Map;
 public class RegisterRequest extends StringRequest {
 
     private static final String peticio_registre = "http://chapp.comxa.com/registre.php";
-    private Map<String, String> parametres;
+    private Map<String, String> params;
 
     public RegisterRequest(String usuari, String nick, String correu, String clau, Response.Listener<String> listener){
 
         super(Method.POST, peticio_registre, listener, null);
-        parametres = new HashMap<>();
-        parametres.put("usuari",usuari);
-        parametres.put("nick",nick);
-        parametres.put("correu",correu);
-        parametres.put("clau",clau);
+        params = new HashMap<>();
+        params.put("usuari",usuari);
+        params.put("nick",nick);
+        params.put("correu",correu);
+        params.put("clau",clau);
 
     }
 
-    public Map<String, String> getParametres() {
-        return parametres;
+    @Override
+    public Map<String, String> getParams() {
+        return params;
     }
 }

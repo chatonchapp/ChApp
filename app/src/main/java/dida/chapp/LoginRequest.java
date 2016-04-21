@@ -12,20 +12,20 @@ import java.util.Map;
  */
 public class LoginRequest extends StringRequest{
 
-    private static final String peticio_login = "http://chapp.comxa.com/entrar.php";
-    private Map<String, String> parametres;
+    private static final String peticio_login = "http://chapp.comxa.com/login.php";
+    private Map<String, String> params;
 
     public LoginRequest(String usuari, String clau, Response.Listener<String> listener){
 
         super(Request.Method.POST, peticio_login, listener, null);
-        parametres = new HashMap<>();
-        parametres.put("usuari",usuari);
-        parametres.put("clau",clau);
+        params = new HashMap<>();
+        params.put("usuari",usuari);
+        params.put("clau",clau);
 
     }
 
-    public Map<String, String> getParametres() {
-        return parametres;
+    @Override
+    public Map<String, String> getParams() {
+        return params;
     }
-
 }
