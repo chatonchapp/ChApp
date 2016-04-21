@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_748e4ba5736f41f67d2e2a7f93f73ebf7797fa4b/classes.dex" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="706603f3e1cef086e6bdf04629d61551b3199e84">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f012252b39ec208fa3c091b70f38596ce46d4e6d/classes.dex" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_bcb1a3afc99956c39def9c8c8f872e9c75ab6220/classes.dex" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7f6bb7c8aaff7bed08cf5d09618239423cfd6b36">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_81c0231fb04610164024c6eb245a64d6fdd42a36/classes.dex" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/exploded-aar/com.android.volley/volley/1.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.volley-volley-1.0.0_adb982be87b63829077a115ed22a964948650a68/classes.dex" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_3fdb77bd7c443e06ac476052d874bc462c39bbec/classes.dex" />
+    </item>
+    <item
+        jar="/root/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_b975d86e0abec7206d5cce18f9d4cf511f96b32d/classes.dex" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_a2d38ee74d71ca0334d0088e582f7757044c643c/classes.dex" />
+    </item>
+    <item
+        jar="/root/AndroidStudioProjects/ChApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/root/AndroidStudioProjects/ChApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_a47668829e96006cbd85237d6a14367bca78c0f7/classes.dex" />
+    </item>
+
+</items>
